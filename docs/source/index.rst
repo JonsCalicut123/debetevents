@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Debet – Sảnh game kiếm tiền cá cược dễ nhất năm 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Debet <https://debet.events/>`_ là một nhà cái cá cược uy tín, thu hút sự quan tâm đặc biệt từ cộng đồng người chơi nhờ các ưu đãi hấp dẫn như tặng thưởng đăng ký mới lên đến 159K. Thành lập từ năm 2010, Debet không ngừng phát triển để cung cấp một sân chơi công bằng, an toàn và minh bạch, thu hút hàng ngàn người chơi hàng ngày. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Bên cạnh đó, giao diện thân thiện, dễ sử dụng cùng hệ thống bảo mật thông tin người dùng tiên tiến, kết hợp với dịch vụ chăm sóc khách hàng 24/7, giúp người chơi luôn cảm thấy an tâm và hài lòng. Debet cũng cung cấp ứng dụng trên cả iOS và Android, giúp người chơi dễ dàng truy cập mọi lúc, mọi nơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 1/9 ấp 1, Đông Thạnh, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0322584419. 
 
-.. toctree::
+Email: info@debet.events. 
 
-   usage
-   api
+Website: https://debet.events/ 
+
+#debet #trangchudebet #dangkydebet #dangnhapdebet #linkdebet
